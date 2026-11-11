@@ -2,7 +2,7 @@
 
 Personal web profile for **Affan Yusuf Fadillah** — Tech Lead & Senior Software Engineer.
 
-🔗 Live site: https://affanyf.github.io
+🔗 Live site: https://affanyf.app-web.site/
 
 ## Structure
 
